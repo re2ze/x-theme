@@ -1,0 +1,32 @@
+{
+  "name": "X-Theme",
+  "title": "X-Theme",
+  "description": "The best WordPress theme ever made! | main theme",
+  "version": "1.0.0",
+  "homepage": "http://domain.com",
+  "author": {
+    "name": "Mohamed Rihan",
+    "email": "rihan.info@gmail.com",
+    "url": "http://rihan.me"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compass": "^0.6.0",
+    "grunt-contrib-compress": "^0.5.2",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.9.0",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-csscomb": "^2.0.1",
+    "grunt-notify": "^0.2.12",
+    "grunt-template": "^0.2.3",
+    "jshint-stylish": "^0.1.5",
+    "load-grunt-tasks": "^0.4.0",
+    "matchdep": "~0.1.2"
+  },
+  "keywords": ["rihan", "regz", "minimal", "light", "corporate", "parallex", "canvas", "js", "css3", "svg", "gsap", "animated"]
+}
